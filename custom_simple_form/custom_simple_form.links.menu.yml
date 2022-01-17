@@ -1,0 +1,5 @@
+custom_simple_form.admin_settings:
+  title: 'Service Form'
+  description: 'Configure system for custom form.'
+  route_name: custom_simple_form.admin_settings 
+  parent: 'system.admin_config_system'

@@ -1,0 +1,7 @@
+custom_simple_form.admin_settings:
+  path: '/admin/config/custom_simple_form'
+  defaults:
+    _form: '\Drupal\custom_simple_form\Form\SimpleForm'
+    _title: 'Service Form'
+  requirements:
+    _permission: 'administer site configuration'

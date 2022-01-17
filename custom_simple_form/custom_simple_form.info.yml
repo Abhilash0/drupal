@@ -1,0 +1,6 @@
+name: Custom Simple Form
+type: module
+description: "Our Service Form."
+package: custom
+core: 8.x
+configure: custom_simple_form.admin_settings
