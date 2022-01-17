@@ -1,7 +1,0 @@
-name: User Login
-type: module
-description: Define a custom block.
-core_version_requirement: ^8 || ^9
-package: Custom
-dependencies:
-  - drupal:block
